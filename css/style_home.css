@@ -1,0 +1,33 @@
+/* Texto*/
+
+.main-title{
+  color: #ff3c00;
+  margin: 65px 0px 65px 0px;
+  font-size: 40px;
+  text-align: center;
+}
+.main-title::after{
+  content: "";
+  border-top: 2px solid #ff3c00;
+  width: 35%;
+  position: absolute;
+  top: 130px;
+  left: 32.5%;
+
+}
+.slogan-title{
+  color: #ff3c00;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+.sobre-list{
+  list-style: none;
+  padding: 0px;
+}
+.sobre-list li{
+  line-height: 30px;
+}
+.sobre-list svg{
+  color: #ff3c00;
+}

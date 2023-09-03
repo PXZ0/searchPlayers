@@ -1,0 +1,9 @@
+html body{
+	margin:0;
+	padding:0
+	height:100%;
+}
+.text-titulo{
+	font-family: 'Open Sans', sans-serif;
+	color:#ff3c00;
+}

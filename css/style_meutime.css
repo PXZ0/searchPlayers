@@ -1,0 +1,30 @@
+html body{
+	margin:0;
+	padding:0
+	height:100%;
+}
+.titulo{
+	font-family: 'Open Sans', sans-serif;
+	color:#ff3c00;
+}
+.text_mensagem{
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	text-decoration: bold;
+	transition: 0.3s ease;
+}
+.link_busca{
+	text-decoration: none;
+	color: #fff;
+}
+.link_busca:hover{
+	text-decoration: none;
+	color: #FF3C00;
+}
+.icon{
+	color:#ff3c00;
+	transition:0.5s ease;
+}
+.icon:hover{
+	color:#fff;
+}

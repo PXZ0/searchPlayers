@@ -1,0 +1,30 @@
+
+.menu_config{
+	position: fixed;
+	list-style: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.menu_config_item{
+	padding: 10px 20px; 
+}
+.text_menu_config{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: #ff3c00;
+	transition: 0.2s ease;
+}
+.text_menu_config:hover{
+	text-decoration: none;
+	color: #fff;
+}	
+.text-title{
+	margin-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: #ff3c00;
+}
+.text{
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}

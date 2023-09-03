@@ -1,0 +1,43 @@
+.login
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.metade-box
+{
+    flex: 1 1 45%;
+    position: relative;
+}
+
+.espaco
+{
+    margin-right: 2.5%;
+}
+
+.main-cadastro form
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.tudo-box
+{
+    flex: 1 1 100%;
+    position: relative;
+}
+
+.erro-validacao
+{
+    color: #ff1a1a;
+    position: absolute;
+    top: 57px;
+    font-size: .8rem;
+}
+
+.template
+{
+    display: none;
+}

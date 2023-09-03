@@ -1,0 +1,8 @@
+.status{
+	width:400px;
+	height:150px;
+	background-color:#222;
+	overflow:hidden;
+	padding:5px;
+	border-radius:10px;
+}
